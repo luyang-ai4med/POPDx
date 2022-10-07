@@ -1,0 +1,992 @@
+,id,names,category
+1,20554,Actions taken following self-harm,Self-harm behaviours
+2,20550,Activities undertaken to treat anxiety,Anxiety
+3,20547,Activities undertaken to treat depression,Depression
+4,41232,Administrative and legal statuses,Summary Administration
+5,41219,Anaesthetics administered during delivery,Summary Maternity
+6,41220,Anaesthetics administered post delivery,Summary Maternity
+10,6146,Attendance/disability/mobility allowance,Other sociodemographic factors
+11,20552,Behavioural and miscellaneous addictions,Addictions
+12,6152,"Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Medical conditions
+13,20001,"Cancer code, self-reported",Medical conditions
+14,41214,Carer support indicators,Summary Psychiatric
+15,6142,Current employment status,Employment
+16,41221,Delivery methods,Summary Maternity
+17,41222,Delivery onset methods,Summary Maternity
+18,41223,Delivery places,Summary Maternity
+19,41248,Destinations on discharge from hospital (recoded),Summary Administration
+20,41215,Detention categories,Summary Psychiatric
+28,6148,Eye problems/disorders,Eyesight
+30,6151,Fractured bone site(s),Medical conditions
+31,6139,Gas or solid-fuel cooking/heating,Household
+32,10860,Gas or solid-fuel cooking/heating (pilot),Household
+33,6140,Heating type(s) in home,Household
+34,41218,History of psychiatric care on admission,Summary Psychiatric
+35,41231,Hospital episode type,Summary Administration
+36,6141,How are people in household related to participant,Household
+37,6145,"Illness, injury, bereavement, stress in last 2 years",Mental health
+38,10721,"Illness, injury, bereavement, stress in last 2 years (pilot)",Mental health
+39,20112,Illnesses of adopted father,Family history
+40,20113,Illnesses of adopted mother,Family history
+41,20114,Illnesses of adopted siblings,Family history
+42,20107,Illnesses of father,Family history
+43,20110,Illnesses of mother,Family history
+44,20111,Illnesses of siblings,Family history
+48,41224,Intended delivery places,Summary Maternity
+49,41244,Intended management of patient (recoded),Summary Administration
+51,41216,Legal statuses,Summary Psychiatric
+52,6160,Leisure/social activities,Social support
+55,41245,Main speciality of consultant (recoded),Summary Administration
+56,6156,Manic/hyper symptoms,Mental health
+57,20548,Manifestations of mania or irritability,Mania
+58,6177,"Medication for cholesterol, blood pressure or diabetes",Medication
+59,6153,"Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",Medication
+60,6154,"Medication for pain relief, constipation, heartburn",Medication
+61,10004,"Medication for pain relief, constipation, heartburn (pilot)",Medication
+62,10005,"Medication for smoking cessation, constipation, heartburn, allergies (pilot)",Medication
+63,41217,Mental categories,Summary Psychiatric
+64,20544,Mental health problems ever diagnosed by a professional,Mental distress
+65,41249,Methods of admission to hospital (recoded),Summary Administration
+66,41250,Methods of discharge from hospital (recoded),Summary Administration
+67,20553,Methods of self-harm used,Self-harm behaviours
+68,6179,Mineral and other dietary supplements,Medication
+69,6149,Mouth/teeth dental problems,Mouth
+70,10006,Mouth/teeth dental problems (pilot),Mouth
+71,6144,"Never eat eggs, dairy, wheat, sugar",Diet
+72,10855,"Never eat eggs, dairy, wheat, sugar (pilot)",Diet
+73,20002,"Non-cancer illness code, self-reported",Medical conditions
+74,20004,Operation code,Operations
+78,41200,Operative procedures - main OPCS4,Summary Operations
+80,41210,Operative procedures - secondary OPCS4,Summary Operations
+81,10854,Other dietary supplements (pilot),Medication
+82,41229,PCT responsible for patient data,Summary Administration
+83,41230,PCT where patients GP was registered,Summary Administration
+84,6159,Pain type(s) experienced in last month,Pain
+85,41247,Patient classification on admission (recoded),Summary Administration
+89,6138,Qualifications,Education
+90,10722,Qualifications (pilot),Education
+91,6147,Reason for glasses/contact lenses,Eyesight
+93,41225,Resuscitation methods,Summary Maternity
+94,41226,Sex of baby,Summary Maternity
+99,41251,Sources of admission to hospital (recoded),Summary Administration
+100,41227,Status of baby at birth,Summary Maternity
+101,41228,Statuses of person conducting delivery,Summary Maternity
+102,20551,Substance of prescription or over-the-counter medication addiction,Addictions
+103,20549,Substances taken for anxiety,Anxiety
+104,20546,Substances taken for depression,Depression
+112,6143,Transport type for commuting to job workplace,Employment
+113,41246,Treatment speciality of consultant (recoded),Summary Administration
+114,20003,Treatment/medication code,Medications
+123,6164,Types of physical activity in last 4 weeks,Physical activity
+126,6162,Types of transport used (excluding work),Physical activity
+128,6150,Vascular/heart problems diagnosed by doctor,Medical conditions
+129,6155,Vitamin and mineral supplements,Medication
+130,10007,Vitamin and mineral supplements (pilot),Medication
+132,10723,Vitamin supplements (pilot),Medication
+133,6158,Why reduced smoking,Smoking
+134,6157,Why stopped smoking,Smoking
+654,12323,12-lead ECG measuring method,"ECG at rest, 12-lead"
+655,5155,3mm asymmetry index for irregular astigmatism level (left),Autorefraction
+656,5152,3mm asymmetry index for irregular astigmatism level (right),Autorefraction
+657,5141,3mm asymmetry index unreliable (left),Autorefraction
+658,5144,3mm asymmetry index unreliable (right),Autorefraction
+659,5136,3mm keratometry result unreliable (left),Autorefraction
+660,5140,3mm keratometry result unreliable (right),Autorefraction
+661,5149,3mm regularity index for irregular astigmatism level (left),Autorefraction
+662,5164,3mm regularity index for irregular astigmatism level (right),Autorefraction
+663,5148,3mm regularity index unreliable (left),Autorefraction
+664,5145,3mm regularity index unreliable (right),Autorefraction
+665,5142,6mm asymmetry index unreliable (left),Autorefraction
+666,5143,6mm asymmetry index unreliable (right),Autorefraction
+667,5138,6mm keratometry result unreliable (left),Autorefraction
+668,5139,6mm keratometry result unreliable (right),Autorefraction
+669,5147,6mm regularity index unreliable (left),Autorefraction
+670,5146,6mm regularity index unreliable (right),Autorefraction
+674,2110,Able to confide,Social support
+675,20525,Able to pay rent/mortgage as an adult,Traumatic events
+676,6017,Able to walk or cycle unaided for 10 minutes,ECG during exercise
+677,22035,Above moderate/vigorous recommendation,MET Scores
+678,22036,Above moderate/vigorous/walking recommendation,MET Scores
+686,1767,Adopted as a child,Early life factors
+687,3912,Adopted father still alive,Family history
+688,3942,Adopted mother still alive,Family history
+689,111,Aide-memoire completed,Procedural metrics
+691,20117,Alcohol drinker status,Alcohol
+692,1558,Alcohol intake frequency.,Alcohol
+693,1628,Alcohol intake versus 10 years previously,Alcohol
+694,1618,Alcohol usually taken with meals,Alcohol
+695,20403,Amount of alcohol drunk on a typical drinking day,Alcohol use
+696,2129,Answered sexual history questions,Sexual factors
+703,4924,Attempted fluid intelligence (FI) test.,Fluid intelligence / reasoning
+704,20484,Attempted suicide in past year,Self-harm behaviours
+705,5191,Auto-refraction method (left),Autorefraction
+706,5189,Auto-refraction method (right),Autorefraction
+707,738,Average total household income before tax,Household
+708,10877,Average total household income before tax (pilot),Household
+710,20495,Avoided activities or situations because of previous stressful experience in past month,Traumatic events
+712,3571,Back pain for 3+ months,Pain
+720,1369,Beef intake,Diet
+722,20522,Been in a confiding relationship as an adult,Traumatic events
+723,20526,Been in serious accident believed to be life-threatening,Traumatic events
+724,20527,Been involved in combat or exposed to war-zone,Traumatic events
+727,40012,Behaviour of cancer tumour,Cancer register
+728,20460,Belief that own life is meaningful,Happiness and subjective well-being
+732,20521,Belittlement by partner or ex-partner as an adult,Traumatic events
+734,2834,Bilateral oophorectomy (both ovaries removed),Female-specific factors
+735,20126,Bipolar and major depression status,Mental health
+736,20122,Bipolar disorder status,Mental health
+738,120,Birth weight known,Early life factors
+739,20049,"Blood sample #, note contents",Blood sample collection
+745,5182,Both eyes present,Eye surgery/complications
+752,1448,Bread type,Diet
+753,10776,Bread type/intake (pilot),Diet
+756,1677,Breastfed as a baby,Early life factors
+757,22616,Breathing problems during period of job,Employment history
+758,22618,Breathing problems improved/stopped away from workplace or on holiday,Employment history
+759,22619,Breathing problems responsible for leaving job,Employment history
+760,22504,Bring up phlegm/sputum/mucus on most days,Medical information
+772,3089,Caffeine drink within last hour,Spirometry
+774,2453,Cancer diagnosed by doctor,Medical conditions
+778,12292,Carotid ultrasound measurement completed,Carotid ultrasound
+779,12291,Carotid ultrasound measuring method,Carotid ultrasound
+784,1468,Cereal type,Diet
+786,1408,Cheese intake,Diet
+791,3616,Chest pain due to walking ceases when standing still,Chest pain
+792,6015,Chest pain felt during physical activity,ECG during exercise
+793,6016,Chest pain felt outside physical activity,ECG during exercise
+794,2335,Chest pain or discomfort,Chest pain
+795,3606,Chest pain or discomfort walking normally,Chest pain
+796,3751,Chest pain or discomfort when walking uphill or hurrying,Chest pain
+830,24014,Close to major road,Residential air pollution
+831,4792,Cochlear implant,Hearing
+833,1508,Coffee type,Diet
+836,1687,Comparative body size at age 10,Early life factors
+837,1697,Comparative height size at age 10,Early life factors
+840,4281,Completion status of numeric memory test,Numeric memory
+841,6020,Completion status of test,ECG during exercise
+842,20486,Contemplated self-harm in past year,Self-harm behaviours
+843,3088,Contra-indications for spirometry,Spirometry
+844,40002,Contributory (secondary) causes of death: ICD10,Death register
+846,22502,Cough on most days,Medical information
+847,20115,Country of Birth (non-UK origin),Early life factors
+848,1647,Country of birth (UK/elsewhere),Early life factors
+851,30513,Creatinine (enzymatic) in urine device ID,Urine processing
+859,20119,Current employment status - corrected,Employment
+860,5183,Current eye infection,Eye surgery/complications
+861,1239,Current tobacco smoking,Smoking
+867,100026,Daily dietary data not credible,Diet by 24-hour recall
+871,90002,Data problem indicator,Raw accelerometer statistics
+872,90017,"Data quality, calibrated on own data",Accelerometer calibration
+873,90016,"Data quality, good calibration",Accelerometer calibration
+874,90015,"Data quality, good wear time",Accelerometer wear time duration
+875,22630,Day shifts worked,Employment history
+876,90018,Daylight savings crossover,Accelerometer wear time duration
+877,1220,Daytime dozing / sleeping (narcolepsy),Sleep
+878,40018,Death record format,Death register
+898,20445,Depression possibly related to childbirth,Depression
+899,20447,Depression possibly related to stressful or traumatic event,Depression
+904,2443,Diabetes diagnosed by doctor,Medical conditions
+906,20528,Diagnosed with life-threatening illness,Traumatic events
+908,20532,Did your sleep change?,Depression
+910,10886,Difference in mobile phone use compared to one year previously (pilot),Electronic device use
+911,1140,Difference in mobile phone use compared to two years previously,Electronic device use
+912,20435,Difficulty concentrating during worst depression,Depression
+913,20419,Difficulty concentrating during worst period of anxiety,Anxiety
+914,3476,Difficulty not smoking for 1 day,Smoking
+915,20541,Difficulty stopping worrying during worst period of anxiety,Anxiety
+916,4259,Digits entered correctly,Numeric memory
+918,20462,Distress caused by unusual or psychotic experiences,Unusual and psychotic experiences
+920,22130,Doctor diagnosed COPD (chronic obstructive pulmonary disease),Medical information
+921,22132,Doctor diagnosed alpha-1 antitrypsin deficiency,Medical information
+922,22139,Doctor diagnosed asbestosis,Medical information
+923,22127,Doctor diagnosed asthma,Medical information
+924,22134,Doctor diagnosed bronchiectasis,Medical information
+925,22129,Doctor diagnosed chronic bronchitis,Medical information
+926,22131,Doctor diagnosed cystic fibrosis,Medical information
+927,22128,Doctor diagnosed emphysema,Medical information
+928,22136,Doctor diagnosed fibrosing alveolitis/unspecified alveolitis,Medical information
+929,22126,Doctor diagnosed hayfever or allergic rhinitis,Medical information
+930,22135,Doctor diagnosed idiopathic pulmonary fibrosis,Medical information
+931,22140,Doctor diagnosed lung cancer (not mesothelioma),Medical information
+932,22141,Doctor diagnosed mesothelioma of the lung,Medical information
+933,22133,Doctor diagnosed sarcoidosis,Medical information
+934,22138,Doctor diagnosed silicosis,Medical information
+935,22137,Doctor diagnosed tuberculosis,Medical information
+936,6014,Doctor restricts physical activity due to heart condition,ECG during exercise
+944,1100,Drive faster than motorway speed limit,Physical activity
+945,2634,Duration of heavy DIY,Physical activity
+946,1021,Duration of light DIY,Physical activity
+947,10962,Duration of moderate physical activity (pilot),Physical activity
+948,3647,Duration of other exercises,Physical activity
+949,1001,Duration of strenuous sports,Physical activity
+950,10971,Duration of vigorous physical activity (pilot),Physical activity
+951,10953,Duration of walks (pilot),Physical activity
+952,20438,Duration of worst depression,Depression
+953,981,Duration walking for pleasure,Physical activity
+955,6019,ECG/bike method for fitness test,ECG during exercise
+956,1727,Ease of skin tanning,Sun exposure
+957,20429,Easily tired during worst period of anxiety,Anxiety
+961,20005,Email access,Ongoing characteristics
+964,21000,Ethnic background,Ethnicity
+965,20431,Ever addicted to a behaviour or miscellanous,Addictions
+966,20406,Ever addicted to alcohol,Addictions
+967,20401,Ever addicted to any substance or behaviour,Addictions
+968,20456,Ever addicted to illicit or recreational drugs,Addictions
+969,20503,Ever addicted to prescription or over-the-counter medication,Addictions
+970,20483,Ever attempted suicide,Self-harm behaviours
+971,20411,Ever been injured or injured someone else through drinking alcohol,Alcohol use
+974,20468,Ever believed in an un-real conspiracy against self,Unusual and psychotic experiences
+975,20474,Ever believed in un-real communications or signs,Unusual and psychotic experiences
+976,20485,Ever contemplated self-harm,Self-harm behaviours
+977,4598,Ever depressed for a whole week,Mental health
+979,20421,"Ever felt worried, tense, or anxious for most of a month or longer",Anxiety
+983,2345,Ever had bowel cancer screening,Cancer screening
+984,2674,Ever had breast cancer screening / mammogram,Female-specific factors
+987,5324,Ever had cataract surgery,Eye surgery/complications
+988,2694,Ever had cervical smear test,Female-specific factors
+992,5328,Ever had corneal graft surgery,Eye surgery/complications
+995,5181,Ever had eye surgery,Eye surgery/complications
+998,3591,Ever had hysterectomy (womb removed),Female-specific factors
+999,20405,"Ever had known person concerned about, or recommend reduction of, alcohol consumption",Alcohol use
+1000,5327,Ever had laser treatment for glaucoma or high eye pressure,Eye surgery/complications
+1004,20502,Ever had period extreme irritability,Mania
+1005,20501,Ever had period of mania / excitability,Mania
+1007,20446,Ever had prolonged feelings of sadness or depression,Depression
+1008,20441,Ever had prolonged loss of interest in normal activities,Depression
+1009,2365,Ever had prostate specific antigen (PSA) test,Cancer screening
+1010,5325,Ever had refractive laser eye surgery,Eye surgery/complications
+1012,2159,Ever had same-sex intercourse,Sexual factors
+1013,2774,"Ever had stillbirth, spontaneous miscarriage or termination",Female-specific factors
+1014,5326,Ever had surgery for glaucoma or high eye pressure,Eye surgery/complications
+1015,20463,Ever heard an un-real voice,Unusual and psychotic experiences
+1016,4653,Ever highly irritable/argumentative for 2 days,Mental health
+1017,4642,Ever manic/hyper for 2 days,Mental health
+1018,20404,Ever physically dependent on alcohol,Addictions
+1019,20466,Ever prescribed a medication for unusual or psychotic experiences,Unusual and psychotic experiences
+1020,20471,Ever seen an un-real vision,Unusual and psychotic experiences
+1021,20480,Ever self-harmed,Self-harm behaviours
+1022,20160,Ever smoked,Smoking
+1023,20499,Ever sought or received professional help for mental distress,Mental distress
+1024,2907,Ever stopped smoking for 6+ months,Smoking
+1025,10827,Ever stopped smoking for 6+ months (pilot),Smoking
+1026,20500,Ever suffered mental distress preventing usual activities,Mental distress
+1027,20453,Ever taken cannabis,Cannabis use
+1028,2784,Ever taken oral contraceptive pill,Female-specific factors
+1029,20477,Ever talked to a health professional about unusual or psychotic experiences,Unusual and psychotic experiences
+1030,20479,Ever thought that life not worth living,Self-harm behaviours
+1031,3486,Ever tried to stop smoking,Smoking
+1032,4631,Ever unenthusiastic/disinterested for a whole week,Mental health
+1033,2814,Ever used hormone-replacement therapy (HRT),Female-specific factors
+1034,20425,Ever worried more than most people would in similar situation,Anxiety
+1035,4935,FI1 : numeric addition test,Fluid intelligence / reasoning
+1037,5699,FI10 : arithmetic sequence recognition,Fluid intelligence / reasoning
+1039,5779,FI11 : antonym,Fluid intelligence / reasoning
+1041,5790,FI12 : square sequence recognition,Fluid intelligence / reasoning
+1043,5866,FI13 : subset inclusion logic,Fluid intelligence / reasoning
+1046,4946,FI2 : identify largest number,Fluid intelligence / reasoning
+1048,4957,FI3 : word interpolation,Fluid intelligence / reasoning
+1050,4968,FI4 : positional arithmetic,Fluid intelligence / reasoning
+1052,4979,FI5 : family relationship calculation,Fluid intelligence / reasoning
+1054,4990,FI6 : conditional arithmetic,Fluid intelligence / reasoning
+1056,5001,FI7 : synonym,Fluid intelligence / reasoning
+1058,5012,FI8 : chained arithmetic,Fluid intelligence / reasoning
+1060,5556,FI9 : concept interpolation,Fluid intelligence / reasoning
+1062,1757,Facial ageing,Sun exposure
+1063,4067,Facial pains for 3+ months,Pain
+1064,2296,Falls in the last year,General health
+1066,4559,Family relationship satisfaction,Mental health
+1068,1797,Father still alive,Family history
+1071,1960,Fed-up feelings,Mental health
+1077,20449,Feelings of tiredness during worst episode of depression,Depression
+1078,20450,Feelings of worthlessness during worst period of depression,Depression
+1081,20496,Felt distant from other people in past month,Traumatic events
+1082,20487,Felt hated by family member as a child,Traumatic events
+1083,20494,Felt irritable or had angry outbursts in past month,Traumatic events
+1084,20489,Felt loved as a child,Traumatic events
+1086,20498,Felt very upset when reminded of stressful experience in past month,Traumatic events
+1090,4294,Final attempt correct,Prospective memory
+1091,4581,Financial situation satisfaction,Mental health
+1092,90026,First weekday of wear,Accelerometer wear time duration
+1098,3731,Former alcohol drinker,Alcohol
+1100,20436,Fraction of day affected during worst episode of depression,Depression
+1101,3005,Fracture resulting from simple fall,Medical conditions
+1105,2463,Fractured/broken bones in last 5 years,Medical conditions
+1120,20416,Frequency of consuming six or more units of alcohol,Alcohol use
+1121,20439,Frequency of depressed days during worst episode of depression,Depression
+1122,2050,Frequency of depressed mood in last 2 weeks,Mental health
+1123,20537,Frequency of difficulty controlling worry during worst period of anxiety,Anxiety
+1126,20414,Frequency of drinking alcohol,Alcohol use
+1127,20407,Frequency of failure to fulfil normal expectations due to drinking alcohol in last year,Alcohol use
+1128,20409,Frequency of feeling guilt or remorse after drinking alcohol in last year,Alcohol use
+1129,1031,Frequency of friend/family visits,Social support
+1130,10740,Frequency of friend/family visits (pilot),Social support
+1133,2624,Frequency of heavy DIY in last 4 weeks,Physical activity
+1134,20413,Frequency of inability to cease drinking in last year,Alcohol use
+1135,20539,Frequency of inability to stop worrying during worst period of anxiety,Anxiety
+1136,1011,Frequency of light DIY in last 4 weeks,Physical activity
+1138,20408,Frequency of memory loss due to drinking alcohol in last year,Alcohol use
+1139,20412,Frequency of needing morning drink of alcohol after heavy drinking session in last year,Alcohol use
+1140,3637,Frequency of other exercises in last 4 weeks,Physical activity
+1141,943,Frequency of stair climbing in last 4 weeks,Physical activity
+1142,991,Frequency of strenuous sports in last 4 weeks,Physical activity
+1143,2070,Frequency of tenseness / restlessness in last 2 weeks,Mental health
+1144,2080,Frequency of tiredness / lethargy in last 2 weeks,Mental health
+1145,2060,Frequency of unenthusiasm / disinterest in last 2 weeks,Mental health
+1146,20467,Frequency of unusual or psychotic experiences in past year,Unusual and psychotic experiences
+1147,971,Frequency of walking for pleasure in last 4 weeks,Physical activity
+1148,20427,Frequent trouble falling or staying asleep during worst period of anxiety,Anxiety
+1151,4570,Friendships satisfaction,Mental health
+1155,22660,Gap coding,Employment history
+1158,20458,General happiness,Happiness and subjective well-being
+1159,20459,General happiness with own health,Happiness and subjective well-being
+1160,2956,General pain for 3+ months,Pain
+1161,22006,Genetic ethnic grouping,Genotyping process and sample QC
+1162,22021,Genetic kinship to other participants,Genotyping process and sample QC
+1164,22001,Genetic sex,Genotyping process and sample QC
+1165,22000,Genotype measurement batch,Genotyping process and sample QC
+1166,4041,Gestational diabetes only,Medical conditions
+1167,10844,Gestational diabetes only (pilot),Medical conditions
+1168,1170,Getting up in morning,Sleep
+1169,6075,Glasses worn/required (left),Visual acuity
+1170,6074,Glasses worn/required (right),Visual acuity
+1179,2030,Guilty feelings,Mental health
+1195,2415,Had major operations,Operations
+1196,2724,Had menopause,Female-specific factors
+1197,2844,Had other major operations,Operations
+1198,1747,"Hair colour (natural, before greying)",Sun exposure
+1199,2395,Hair/balding pattern,Male-specific factors
+1201,1707,Handedness (chirality/laterality),Early life factors
+1202,1130,Hands-free device/speakerphone use with mobile phone in last 3 month,Electronic device use
+1203,4526,Happiness,Mental health
+1207,3799,Headaches for 3+ months,Pain
+1208,4548,Health satisfaction,Mental health
+1209,3393,Hearing aid user,Hearing
+1210,2247,Hearing difficulty/problems,Hearing
+1211,10793,Hearing difficulty/problems (pilot),Hearing
+1212,2257,Hearing difficulty/problems with background noise,Hearing
+1218,3414,Hip pain for 3+ months,Pain
+1219,40011,Histology of cancer tumour,Cancer register
+1220,20118,Home area population density - urban or rural,Reception
+1223,1518,Hot drink temperature,Diet
+1224,22032,IPAQ activity group,MET Scores
+1226,20418,Impact on normal roles during worst period of anxiety,Anxiety
+1227,20440,Impact on normal roles during worst period of depression,Depression
+1229,401,Index for card A in round,Reaction time
+1230,402,Index for card B in round,Reaction time
+1241,10105,Internet user (pilot),Electronic device use
+1242,5196,Intra-ocular pressure (IOP) method (left),Intraocular pressure
+1243,5194,Intra-ocular pressure (IOP) method (right),Intraocular pressure
+1245,110001,"Invitation to complete online 24-hour recall dietary questionnaire, acceptance",Diet by 24-hour recall
+1247,1940,Irritability,Mental health
+1250,22617,Job code - historical,Employment history
+1252,132,Job code at visit - entered,Employment
+1253,22601,Job coding,Employment history
+1254,22620,Job involved shift work,Employment history
+1255,816,Job involves heavy manual or physical work,Employment
+1256,806,Job involves mainly walking or standing,Employment
+1257,3426,Job involves night shift work,Employment
+1258,826,Job involves shift work,Employment
+1260,20423,Keyed up or on edge during worst period of anxiety,Anxiety
+1261,3773,Knee pain for 3+ months,Pain
+1263,1379,Lamb/mutton intake,Diet
+1266,5463,Leg pain in calf/calves,Claudication and peripheral artery disease
+1267,4728,Leg pain on walking,Claudication and peripheral artery disease
+1268,5507,Leg pain on walking : action taken,Claudication and peripheral artery disease
+1269,5518,Leg pain on walking : effect of standing still,Claudication and peripheral artery disease
+1270,5452,Leg pain when standing still or sitting,Claudication and peripheral artery disease
+1271,5496,Leg pain when walking ever disappears while walking,Claudication and peripheral artery disease
+1272,5485,Leg pain when walking normally,Claudication and peripheral artery disease
+1273,5474,Leg pain when walking uphill or hurrying,Claudication and peripheral artery disease
+1277,5663,Length of longest manic/irritable episode,Mental health
+1278,1110,Length of mobile phone use,Electronic device use
+1283,2644,"Light smokers, at least 100 smokes in lifetime",Smoking
+1284,10895,"Light smokers, at least 100 smokes in lifetime (pilot)",Smoking
+1285,2936,Likelihood of resuming smoking,Smoking
+1440,2020,"Loneliness, isolation",Mental health
+1441,2188,"Long-standing illness, disability or infirmity",General health
+1443,20492,Longest period of mania or irritability,Mania
+1444,4836,Loud music exposure frequency,Hearing
+1450,1538,Major dietary changes in the last 5 years,Diet
+1453,1787,Maternal smoking around birth,Early life factors
+1454,20454,Maximum frequency of taking cannabis,Cannabis use
+1457,3720,Menstruating today,Female-specific factors
+1459,20012,Method of recording time when cancer first diagnosed,Medical conditions
+1460,20013,Method of recording time when non-cancer illness first diagnosed,Medical conditions
+1461,20014,Method of recording time when operation occurred,Operations
+1462,30503,Microalbumin in urine device ID,Urine processing
+1467,1418,Milk type used,Diet
+1469,1930,Miserableness,Mental health
+1472,22640,Mixture of day and night shifts worked,Employment history
+1475,55,Month of attending assessment centre,Reception
+1476,52,Month of birth,Baseline characteristics
+1477,1920,Mood swings,Mental health
+1479,20422,More irritable than usual during worst period of anxiety,Anxiety
+1480,1180,Morning/evening person (chronotype),Sleep
+1481,1835,Mother still alive,Family history
+1486,20540,Multiple worries during worst period of anxiety,Anxiety
+1490,1190,Nap during day,Sleep
+1491,3404,Neck/shoulder pain for 3+ months,Pain
+1492,1970,Nervous feelings,Mental health
+1493,22650,Night shifts worked,Employment history
+1495,4825,Noisy workplace,Hearing
+1496,4501,Non-accidental death in close genetic family,Family history
+1497,2654,Non-butter spread type details,Diet
+1498,1339,Non-oily fish intake,Diet
+1508,20543,Number of things worried about during worst period of anxiety,Anxiety
+1509,20482,Number of times self-harmed,Self-harm behaviours
+1510,728,Number of vehicles in household,Household
+1516,1329,Oily fish intake,Diet
+1523,20457,Ongoing addiction or dependence on illicit or recreational drugs,Addictions
+1524,20504,Ongoing addiction or dependence to over-the-counter medication,Addictions
+1525,20415,Ongoing addiction to alcohol,Addictions
+1526,20432,Ongoing behavioural or miscellanous addiction,Addictions
+1531,3065,Ordering of blows,Spirometry
+1540,2227,Other eye problems,Eyesight
+1548,2473,Other serious medical condition/disability diagnosed by doctor,Medical conditions
+1553,22027,Outliers for heterozygosity or missing rate,Genotyping process and sample QC
+1554,2178,Overall health rating,General health
+1555,680,Own or rent accommodation lived in,Household
+1556,4293,PM: final answer,Prospective memory
+1557,4292,PM: initial answer,Prospective memory
+1558,3079,Pace-maker,Operations
+1573,1777,Part of a multiple birth,Early life factors
+1574,1249,Past tobacco smoking,Smoking
+1593,20523,Physical violence by partner or ex-partner as an adult,Traumatic events
+1594,20488,Physically abused by family as a child,Traumatic events
+1599,2237,Plays computer games,Electronic device use
+1604,1389,Pork intake,Diet
+1608,30523,Potassium in urine device ID,Urine processing
+1610,1359,Poultry intake,Diet
+1614,3140,Pregnant,Medical conditions
+1615,5959,Previously smoked cigarettes on most/all days,Smoking
+1616,4674,Private healthcare,Other sociodemographic factors
+1617,20124,Probable recurrent major depression (moderate),Mental health
+1618,20125,Probable recurrent major depression (severe),Mental health
+1620,1349,Processed meat intake,Diet
+1621,20428,Professional informed about anxiety,Anxiety
+1622,20448,Professional informed about depression,Depression
+1623,6024,Program category,ECG during exercise
+1624,20018,Prospective memory result,Prospective memory
+1628,22682,Quality control indicator for IMT at 120 degrees,Carotid ultrasound
+1629,22683,Quality control indicator for IMT at 150 degrees,Carotid ultrasound
+1630,22684,Quality control indicator for IMT at 210 degrees,Carotid ultrasound
+1631,22685,Quality control indicator for IMT at 240 degrees,Carotid ultrasound
+1633,20059,Reason ECG not completed,ECG during exercise
+1634,20060,Reason at-rest ECG performed without bicycle,ECG during exercise
+1635,20050,Reason blood sampling not attempted,Blood sample collection
+1637,2664,Reason for reducing amount of alcohol drunk,Alcohol
+1638,10818,Reason for reducing amount of alcohol drunk (pilot),Alcohol
+1639,20058,Reason for skipping ECG,ECG during exercise
+1640,20054,Reason for skipping IOP (left),Intraocular pressure
+1641,20053,Reason for skipping IOP (right),Intraocular pressure
+1644,20051,Reason for skipping arterial stiffness,Arterial stiffness
+1645,20044,Reason for skipping grip strength (left),Hand grip strength
+1646,20043,Reason for skipping grip strength (right),Hand grip strength
+1647,20046,Reason for skipping hip measurement,Body size measures
+1648,20052,Reason for skipping refractometry (left),Autorefraction
+1649,20055,Reason for skipping refractometry (right),Autorefraction
+1650,20048,Reason for skipping sitting height,Body size measures
+1651,20042,Reason for skipping spirometry,Spirometry
+1652,20047,Reason for skipping standing height,Body size measures
+1653,20057,Reason for skipping visual acuity (left),Visual acuity
+1654,20056,Reason for skipping visual acuity (right),Visual acuity
+1655,20045,Reason for skipping waist,Body size measures
+1656,20041,Reason for skipping weight,Body size measures
+1657,3859,Reason former drinker stopped drinking alcohol,Alcohol
+1658,10853,Reason former drinker stopped drinking alcohol (pilot),Alcohol
+1659,190,Reason lost to follow-up,Ongoing characteristics
+1660,20071,Reason no saliva sample collected,Saliva sample collection
+1661,20072,Reason no urine sample collected,Urine sample collection
+1664,20518,Recent changes in speed/amount of moving or speaking,Depression
+1665,20505,Recent easy annoyance or irritability,Anxiety
+1666,20510,Recent feelings of depression,Depression
+1667,20512,Recent feelings of foreboding,Anxiety
+1668,20507,Recent feelings of inadequacy,Depression
+1669,20519,Recent feelings of tiredness or low energy,Depression
+1670,20506,Recent feelings or nervousness or anxiety,Anxiety
+1671,20509,Recent inability to stop or control worrying,Anxiety
+1672,20514,Recent lack of interest or pleasure in doing things,Depression
+1673,22170,Recent medication for COPD (Chronic Obstructive Pulmonary Disease),Medical information
+1674,22172,Recent medication for alpha-1 antitrypsin deficiency,Medical information
+1675,22179,Recent medication for asbestosis,Medical information
+1676,22167,Recent medication for asthma,Medical information
+1677,22174,Recent medication for bronchiectasis,Medical information
+1678,22169,Recent medication for chronic bronchitis,Medical information
+1679,22171,Recent medication for cystic fibrosis,Medical information
+1680,22168,Recent medication for emphysema,Medical information
+1681,22176,Recent medication for fibrosing alveolitis/unspecified alveolitis,Medical information
+1682,22166,Recent medication for hayfever or allergic rhinitis,Medical information
+1683,22175,Recent medication for idiopathic pulmonary fibrosis,Medical information
+1684,22180,Recent medication for lung cancer (not mesothelioma),Medical information
+1685,22181,Recent medication for mesothelioma of the lung,Medical information
+1686,22173,Recent medication for sarcoidosis,Medical information
+1687,22178,Recent medication for silicosis,Medical information
+1688,22177,Recent medication for tuberculosis,Medical information
+1689,20511,Recent poor appetite or overeating,Depression
+1690,20516,Recent restlessness,Anxiety
+1691,20513,Recent thoughts of suicide or self-harm,Depression
+1692,20508,Recent trouble concentrating on things,Depression
+1693,20515,Recent trouble relaxing,Anxiety
+1694,20520,Recent worrying too much about different things,Anxiety
+1697,5090,Refractometry result unreliable (left),Autorefraction
+1698,5091,Refractometry result unreliable (right),Autorefraction
+1699,10016,Regular use of hands-free device/speakerphone with mobile phone (pilot),Electronic device use
+1700,2375,Relative age of first facial hair,Male-specific factors
+1701,2385,Relative age voice broke,Male-specific factors
+1702,20497,Repeated disturbing thoughts of stressful experience in past month,Traumatic events
+1703,20152,Reproduciblity of spirometry measurement using ERS/ATS criteria,Spirometry
+1704,20426,Restless during period of worst anxiety,Anxiety
+1705,3059,Result ranking,Spirometry
+1706,10691,Result ranking (pilot),Spirometry
+1707,2040,Risk taking,Mental health
+1710,1478,Salt added to food,Diet
+1723,3077,Seating box height,Body size measures
+1725,2100,"Seen a psychiatrist for nerves, anxiety, tension or depression",Mental health
+1726,2090,"Seen doctor (GP) for nerves, anxiety, tension or depression",Mental health
+1728,20481,Self-harmed in past year,Self-harm behaviours
+1730,1950,Sensitivity / hurt feelings,Mental health
+1733,5674,Severity of manic/irritable episodes,Mental health
+1734,20493,Severity of problems due to mania or irritability,Mania
+1735,31,Sex,Baseline characteristics
+1736,22019,Sex chromosome aneuploidy,Genotyping process and sample QC
+1737,20524,Sexual interference by partner or ex-partner without consent as an adult,Traumatic events
+1738,20490,Sexually molested as a child,Traumatic events
+1741,4717,Shortness of breath walking on level ground,Breathing
+1744,20123,Single episode of probable major depression,Mental health
+1745,1717,Skin colour,Sun exposure
+1748,20534,Sleeping too much,Depression
+1749,1200,Sleeplessness / insomnia,Sleep
+1751,3159,Smoked cigarette or pipe within last hour,Spirometry
+1752,3506,Smoking compared to 10 years previous,Smoking
+1753,20116,Smoking status,Smoking
+1754,1259,Smoking/smokers in household,Smoking
+1756,1210,Snoring,Sleep
+1757,30533,Sodium in urine device ID,Urine processing
+1760,20491,Someone to take to doctor when needed as a child,Traumatic events
+1762,42005,Source of NSTEMI report,Myocardial infarction outcomes
+1763,42003,Source of STEMI report,Myocardial infarction outcomes
+1771,42011,Source of intracerebral haemorrhage report,Stroke outcomes
+1772,42009,Source of ischaemic stroke report,Stroke outcomes
+1775,42001,Source of myocardial infarction report,Myocardial infarction outcomes
+2943,42007,Source of stroke report,Stroke outcomes
+2944,42013,Source of subarachnoid haemorrhage report,Stroke outcomes
+2951,23,Spirometry method,Spirometry
+2952,10711,Spirometry method (pilot),Spirometry
+2954,1428,Spread type,Diet
+2955,10767,Spread type (pilot),Diet
+2961,2986,Started insulin within one year diagnosis of diabetes,Medical conditions
+2963,4186,Stiffness method,Arterial stiffness
+2964,3741,Stomach/abdominal pain for 3+ months,Pain
+2966,20542,Stronger worrying (than other people) during period of worst anxiety,Anxiety
+2967,2010,Suffer from 'nerves',Mental health
+2969,5529,Surgery on leg arteries (other than for varicose veins),Claudication and peripheral artery disease
+2970,5540,Surgery/amputation of toe or leg,Claudication and peripheral artery disease
+2982,2492,Taking other prescription medications,Medication
+2983,6034,Target heart rate achieved,ECG during exercise
+2985,1990,Tense / 'highly strung',Mental health
+2986,20417,"Tense, sore, or aching muscles during worst period of anxiety",Anxiety
+2987,4287,Test completion status,Prospective memory
+2989,20437,Thoughts of death during worst depression,Depression
+2990,3466,Time from waking to first cigarette,Smoking
+2994,10749,Time using mobile phone in last 3 months (pilot),Electronic device use
+3000,4803,Tinnitus,Hearing
+3001,4814,Tinnitus severity/nuisance,Hearing
+3005,22506,Tobacco smoking,Medical information
+3026,20533,Trouble falling asleep,Depression
+3027,20517,"Trouble falling or staying asleep, or sleeping too much",Depression
+3032,670,Type of accommodation lived in,Household
+3033,40006,Type of cancer: ICD10,Cancer register
+3034,40013,Type of cancer: ICD9,Cancer register
+3035,10132,Type of progestan-only oral contraceptive used (pilot),Female-specific factors
+3036,3446,Type of tobacco currently smoked,Smoking
+3037,2877,Type of tobacco previously smoked,Smoking
+3039,54,UK Biobank assessment centre,Reception
+3043,40001,Underlying (primary) cause of death: ICD10,Death register
+3046,2267,Use of sun/uv protection,Sun exposure
+3047,3090,Used an inhaler for chest within last hour,Spirometry
+3048,1150,Usual side of head for mobile phone use,Electronic device use
+3049,924,Usual walking pace,Physical activity
+3057,1548,Variation in diet,Diet
+3058,10912,Variation in diet (pilot),Diet
+3065,20529,Victim of physically violent crime,Traumatic events
+3066,20531,Victim of sexual assault,Traumatic events
+3067,5187,Visual acuity measured (left),Visual acuity
+3068,5185,Visual acuity measured (right),Visual acuity
+3075,20535,Waking too early,Depression
+3077,3496,Wants to stop smoking,Smoking
+3078,35,Was blood sampling attempted,Blood sample collection
+3080,2207,Wears glasses or contact lenses,Eyesight
+3081,1120,Weekly usage of mobile phone in last 3 months,Electronic device use
+3082,2306,Weight change compared with 1 year ago,General health
+3083,20536,Weight change during worst episode of depression,Depression
+3084,21,Weight method,Body size measures
+3085,2316,Wheeze or whistling in the chest in last year,Breathing
+3086,5408,Which eye(s) affected by amblyopia (lazy eye),Eyesight
+3087,5855,Which eye(s) affected by astigmatism,Eyesight
+3088,5890,Which eye(s) affected by diabetes-related eye disease,Eyesight
+3089,6119,Which eye(s) affected by glaucoma,Eyesight
+3090,5832,Which eye(s) affected by hypermetropia (long sight),Eyesight
+3091,5419,Which eye(s) affected by injury or trauma resulting in loss of vision,Eyesight
+3092,5912,Which eye(s) affected by macular degeneration,Eyesight
+3093,5843,Which eye(s) affected by myopia (short sight),Eyesight
+3094,5877,Which eye(s) affected by other eye condition,Eyesight
+3095,5934,Which eye(s) affected by other serious eye condition,Eyesight
+3096,5610,Which eye(s) affected by presbyopia,Eyesight
+3097,6205,Which eye(s) affected by strabismus (squint),Eyesight
+3098,5441,Which eye(s) are affected by cataract,Eyesight
+3107,10115,Why stopped smoking (pilot),Smoking
+3108,62,Willing to attempt cognitive tests,Procedural metrics
+3109,10114,Willing to be contacted by email (pilot),Electronic device use
+3110,20530,Witnessed sudden violent death,Traumatic events
+3121,10610,Word count (pilot),Word production
+3122,22604,Work hours - lumped category,Employment history
+3123,4537,Work/job satisfaction,Mental health
+3124,22612,Worked with materials containing asbestos,Employment history
+3125,22613,"Worked with paints, thinners or glues",Employment history
+3126,22614,Worked with pesticides,Employment history
+3127,22610,Workplace full of chemical or other fumes,Employment history
+3128,22611,Workplace had a lot of cigarette smoke from other people smoking,Employment history
+3129,22615,Workplace had a lot of diesel exhaust,Employment history
+3130,22607,Workplace very cold,Employment history
+3131,22609,Workplace very dusty,Employment history
+3132,22608,Workplace very hot,Employment history
+3133,22606,Workplace very noisy,Employment history
+3134,20538,Worried most days during period of worst anxiety,Anxiety
+3135,1980,Worrier / anxious feelings,Mental health
+3136,2000,Worry too long after embarrassment,Mental health
+4436,5156,3mm asymmetry index (left),Autorefraction
+4437,5159,3mm asymmetry index (right),Autorefraction
+4438,5119,3mm cylindrical power (left),Autorefraction
+4439,5116,3mm cylindrical power (right),Autorefraction
+4440,5163,3mm regularity index (left),Autorefraction
+4441,5160,3mm regularity index (right),Autorefraction
+4442,5135,3mm strong meridian (left),Autorefraction
+4443,5132,3mm strong meridian (right),Autorefraction
+4444,5096,3mm weak meridian (left),Autorefraction
+4445,5099,3mm weak meridian (right),Autorefraction
+4446,5157,6mm asymmetry index (left),Autorefraction
+4447,5158,6mm asymmetry index (right),Autorefraction
+4448,5118,6mm cylindrical power (left),Autorefraction
+4449,5117,6mm cylindrical power (right),Autorefraction
+4450,5162,6mm regularity index (left),Autorefraction
+4451,5161,6mm regularity index (right),Autorefraction
+4452,5134,6mm strong meridian (left),Autorefraction
+4453,5133,6mm strong meridian (right),Autorefraction
+4454,5097,6mm weak meridian (left),Autorefraction
+4455,5098,6mm weak meridian (right),Autorefraction
+4472,40008,Age at cancer diagnosis,Cancer register
+4473,40007,Age at death,Death register
+4873,23124,Arm fat mass (left),Body composition by impedance
+4874,23120,Arm fat mass (right),Body composition by impedance
+4875,23123,Arm fat percentage (left),Body composition by impedance
+4876,23119,Arm fat percentage (right),Body composition by impedance
+4877,23125,Arm fat-free mass (left),Body composition by impedance
+4878,23121,Arm fat-free mass (right),Body composition by impedance
+4879,23126,Arm predicted mass (left),Body composition by impedance
+4880,23122,Arm predicted mass (right),Body composition by impedance
+4895,24023,Average 16-hour sound level of noise pollution,Residential noise pollution
+4896,24024,Average 24-hour sound level of noise pollution,Residential noise pollution
+4910,90027,Average acceleration 00:00 - 00:59,Acceleration averages
+4911,90028,Average acceleration 01:00 - 01:59,Acceleration averages
+4912,90029,Average acceleration 02:00 - 02:59,Acceleration averages
+4913,90030,Average acceleration 03:00 - 03:59,Acceleration averages
+4914,90031,Average acceleration 04:00 - 04:59,Acceleration averages
+4915,90032,Average acceleration 05:00 - 05:59,Acceleration averages
+4916,90033,Average acceleration 06:00 - 06:59,Acceleration averages
+4917,90034,Average acceleration 07:00 - 07:59,Acceleration averages
+4918,90035,Average acceleration 08:00 - 08:59,Acceleration averages
+4919,90036,Average acceleration 09:00 - 09:59,Acceleration averages
+4920,90037,Average acceleration 10:00 - 10:59,Acceleration averages
+4921,90038,Average acceleration 11:00 - 11:59,Acceleration averages
+4922,90039,Average acceleration 12:00 - 12:59,Acceleration averages
+4923,90040,Average acceleration 13:00 - 13:59,Acceleration averages
+4924,90041,Average acceleration 14:00 - 14:59,Acceleration averages
+4925,90042,Average acceleration 15:00 - 15:59,Acceleration averages
+4926,90043,Average acceleration 16:00 - 16:59,Acceleration averages
+4927,90044,Average acceleration 17:00 - 17:59,Acceleration averages
+4928,90045,Average acceleration 18:00 - 18:59,Acceleration averages
+4929,90046,Average acceleration 19:00 - 19:59,Acceleration averages
+4930,90047,Average acceleration 20:00 - 20:59,Acceleration averages
+4931,90048,Average acceleration 21:00 - 21:59,Acceleration averages
+4932,90049,Average acceleration 22:00 - 22:59,Acceleration averages
+4933,90050,Average acceleration 23:00 - 23:59,Acceleration averages
+4934,24020,Average daytime sound level of noise pollution,Residential noise pollution
+4935,24021,Average evening sound level of noise pollution,Residential noise pollution
+4940,24022,Average night-time sound level of noise pollution,Residential noise pollution
+4943,23105,Basal metabolic rate,Body composition by impedance
+4944,30160,Basophill count,Blood count
+4945,30220,Basophill percentage,Blood count
+4946,20022,Birth weight,Early life factors
+4947,23099,Body fat percentage,Body composition by impedance
+4948,21001,Body mass index (BMI),Body size measures
+4949,23104,Body mass index (BMI),Body composition by impedance
+4954,90173,Calibration - maximum x stationary value,Accelerometer calibration
+4955,90175,Calibration - maximum y stationary value,Accelerometer calibration
+4956,90177,Calibration - maximum z stationary value,Accelerometer calibration
+4957,90172,Calibration - minimum x stationary value,Accelerometer calibration
+4958,90174,Calibration - minimum y stationary value,Accelerometer calibration
+4959,90176,Calibration - minimum z stationary value,Accelerometer calibration
+4960,90170,Calibration coefficients - mean temperature,Accelerometer calibration
+4961,90161,Calibration coefficients - x offset,Accelerometer calibration
+4962,90164,Calibration coefficients - x slope,Accelerometer calibration
+4963,90167,Calibration coefficients - x temp,Accelerometer calibration
+4964,90162,Calibration coefficients - y offset,Accelerometer calibration
+4965,90165,Calibration coefficients - y slope,Accelerometer calibration
+4966,90168,Calibration coefficients - y temp,Accelerometer calibration
+4967,90163,Calibration coefficients - z offset,Accelerometer calibration
+4968,90166,Calibration coefficients - z slope,Accelerometer calibration
+4969,90169,Calibration coefficients - z temp,Accelerometer calibration
+5057,5264,Corneal hysteresis (left),Intraocular pressure
+5058,5256,Corneal hysteresis (right),Intraocular pressure
+5059,5265,Corneal resistance factor (left),Intraocular pressure
+5060,5257,Corneal resistance factor (right),Intraocular pressure
+5066,5086,Cylindrical power (left),Autorefraction
+5067,5087,Cylindrical power (right),Autorefraction
+5088,90181,Duration of interrupted recording periods,Raw accelerometer statistics
+5107,30150,Eosinophill count,Blood count
+5108,30210,Eosinophill percentage,Blood count
+5109,90160,Error tolerance after calibration,Accelerometer calibration
+5110,90159,Error tolerance before calibration,Accelerometer calibration
+5164,3063,Forced expiratory volume in 1-second (FEV1),Spirometry
+5165,10695,Forced expiratory volume in 1-second (FEV1) (pilot),Spirometry
+5167,20150,"Forced expiratory volume in 1-second (FEV1), Best measure",Spirometry
+5168,20153,"Forced expiratory volume in 1-second (FEV1), predicted",Spirometry
+5169,20154,"Forced expiratory volume in 1-second (FEV1), predicted percentage",Spirometry
+5170,3062,Forced vital capacity (FVC),Spirometry
+5171,10694,Forced vital capacity (FVC) (pilot),Spirometry
+5173,20151,"Forced vital capacity (FVC), Best measure",Spirometry
+5174,90092,Fraction acceleration <= 1 milli-gravities,Acceleration intensity distribution
+5175,90101,Fraction acceleration <= 10 milli-gravities,Acceleration intensity distribution
+5176,90127,Fraction acceleration <= 100 milli-gravities,Acceleration intensity distribution
+5177,90148,Fraction acceleration <= 1000 milli-gravities,Acceleration intensity distribution
+5178,90102,Fraction acceleration <= 11 milli-gravities,Acceleration intensity distribution
+5179,90149,Fraction acceleration <= 1100 milli-gravities,Acceleration intensity distribution
+5180,90103,Fraction acceleration <= 12 milli-gravities,Acceleration intensity distribution
+5181,90150,Fraction acceleration <= 1200 milli-gravities,Acceleration intensity distribution
+5182,90128,Fraction acceleration <= 125 milli-gravities,Acceleration intensity distribution
+5183,90104,Fraction acceleration <= 13 milli-gravities,Acceleration intensity distribution
+5184,90151,Fraction acceleration <= 1300 milli-gravities,Acceleration intensity distribution
+5185,90105,Fraction acceleration <= 14 milli-gravities,Acceleration intensity distribution
+5186,90152,Fraction acceleration <= 1400 milli-gravities,Acceleration intensity distribution
+5187,90106,Fraction acceleration <= 15 milli-gravities,Acceleration intensity distribution
+5188,90129,Fraction acceleration <= 150 milli-gravities,Acceleration intensity distribution
+5189,90153,Fraction acceleration <= 1500 milli-gravities,Acceleration intensity distribution
+5190,90107,Fraction acceleration <= 16 milli-gravities,Acceleration intensity distribution
+5191,90154,Fraction acceleration <= 1600 milli-gravities,Acceleration intensity distribution
+5192,90108,Fraction acceleration <= 17 milli-gravities,Acceleration intensity distribution
+5193,90155,Fraction acceleration <= 1700 milli-gravities,Acceleration intensity distribution
+5194,90130,Fraction acceleration <= 175 milli-gravities,Acceleration intensity distribution
+5195,90109,Fraction acceleration <= 18 milli-gravities,Acceleration intensity distribution
+5196,90156,Fraction acceleration <= 1800 milli-gravities,Acceleration intensity distribution
+5197,90110,Fraction acceleration <= 19 milli-gravities,Acceleration intensity distribution
+5198,90157,Fraction acceleration <= 1900 milli-gravities,Acceleration intensity distribution
+5199,90093,Fraction acceleration <= 2 milli-gravities,Acceleration intensity distribution
+5200,90111,Fraction acceleration <= 20 milli-gravities,Acceleration intensity distribution
+5201,90131,Fraction acceleration <= 200 milli-gravities,Acceleration intensity distribution
+5202,90158,Fraction acceleration <= 2000 milli-gravities,Acceleration intensity distribution
+5203,90132,Fraction acceleration <= 225 milli-gravities,Acceleration intensity distribution
+5204,90112,Fraction acceleration <= 25 milli-gravities,Acceleration intensity distribution
+5205,90133,Fraction acceleration <= 250 milli-gravities,Acceleration intensity distribution
+5206,90134,Fraction acceleration <= 275 milli-gravities,Acceleration intensity distribution
+5207,90094,Fraction acceleration <= 3 milli-gravities,Acceleration intensity distribution
+5208,90113,Fraction acceleration <= 30 milli-gravities,Acceleration intensity distribution
+5209,90135,Fraction acceleration <= 300 milli-gravities,Acceleration intensity distribution
+5210,90136,Fraction acceleration <= 325 milli-gravities,Acceleration intensity distribution
+5211,90114,Fraction acceleration <= 35 milli-gravities,Acceleration intensity distribution
+5212,90137,Fraction acceleration <= 350 milli-gravities,Acceleration intensity distribution
+5213,90138,Fraction acceleration <= 375 milli-gravities,Acceleration intensity distribution
+5214,90095,Fraction acceleration <= 4 milli-gravities,Acceleration intensity distribution
+5215,90115,Fraction acceleration <= 40 milli-gravities,Acceleration intensity distribution
+5216,90139,Fraction acceleration <= 400 milli-gravities,Acceleration intensity distribution
+5217,90140,Fraction acceleration <= 425 milli-gravities,Acceleration intensity distribution
+5218,90116,Fraction acceleration <= 45 milli-gravities,Acceleration intensity distribution
+5219,90141,Fraction acceleration <= 450 milli-gravities,Acceleration intensity distribution
+5220,90142,Fraction acceleration <= 475 milli-gravities,Acceleration intensity distribution
+5221,90096,Fraction acceleration <= 5 milli-gravities,Acceleration intensity distribution
+5222,90117,Fraction acceleration <= 50 milli-gravities,Acceleration intensity distribution
+5223,90143,Fraction acceleration <= 500 milli-gravities,Acceleration intensity distribution
+5224,90118,Fraction acceleration <= 55 milli-gravities,Acceleration intensity distribution
+5225,90097,Fraction acceleration <= 6 milli-gravities,Acceleration intensity distribution
+5226,90119,Fraction acceleration <= 60 milli-gravities,Acceleration intensity distribution
+5227,90144,Fraction acceleration <= 600 milli-gravities,Acceleration intensity distribution
+5228,90120,Fraction acceleration <= 65 milli-gravities,Acceleration intensity distribution
+5229,90098,Fraction acceleration <= 7 milli-gravities,Acceleration intensity distribution
+5230,90121,Fraction acceleration <= 70 milli-gravities,Acceleration intensity distribution
+5231,90145,Fraction acceleration <= 700 milli-gravities,Acceleration intensity distribution
+5232,90122,Fraction acceleration <= 75 milli-gravities,Acceleration intensity distribution
+5233,90099,Fraction acceleration <= 8 milli-gravities,Acceleration intensity distribution
+5234,90123,Fraction acceleration <= 80 milli-gravities,Acceleration intensity distribution
+5235,90146,Fraction acceleration <= 800 milli-gravities,Acceleration intensity distribution
+5236,90124,Fraction acceleration <= 85 milli-gravities,Acceleration intensity distribution
+5237,90100,Fraction acceleration <= 9 milli-gravities,Acceleration intensity distribution
+5238,90125,Fraction acceleration <= 90 milli-gravities,Acceleration intensity distribution
+5239,90147,Fraction acceleration <= 900 milli-gravities,Acceleration intensity distribution
+5240,90126,Fraction acceleration <= 95 milli-gravities,Acceleration intensity distribution
+5272,90023,Friday average acceleration,Acceleration averages
+5274,22009,Genetic principal components,Genotyping process and sample QC
+5359,30030,Haematocrit percentage,Blood count
+5360,30020,Haemoglobin concentration,Blood count
+5391,22003,Heterozygosity,Genotyping process and sample QC
+5392,22004,"Heterozygosity, PCA corrected",Genotyping process and sample QC
+5393,30300,High light scatter reticulocyte count,Blood count
+5394,30290,High light scatter reticulocyte percentage,Blood count
+5395,49,Hip circumference,Body size measures
+5419,30280,Immature reticulocyte fraction,Blood count
+5420,23110,Impedance of arm (left),Body composition by impedance
+5421,23109,Impedance of arm (right),Body composition by impedance
+5422,23108,Impedance of leg (left),Body composition by impedance
+5423,23107,Impedance of leg (right),Body composition by impedance
+5424,23106,Impedance of whole body,Body composition by impedance
+5431,20007,Interpolated Age of participant when cancer first diagnosed,Medical conditions
+5432,20009,Interpolated Age of participant when non-cancer illness first diagnosed,Medical conditions
+5433,20011,Interpolated Age of participant when operation took place,Operations
+5434,20006,Interpolated Year when cancer first diagnosed,Medical conditions
+5435,20008,Interpolated Year when non-cancer illness first diagnosed,Medical conditions
+5436,20010,Interpolated Year when operation took place,Operations
+5437,5263,"Intra-ocular pressure, Goldmann-correlated (left)",Intraocular pressure
+5438,5255,"Intra-ocular pressure, Goldmann-correlated (right)",Intraocular pressure
+5439,5262,"Intra-ocular pressure, corneal-compensated (left)",Intraocular pressure
+5440,5254,"Intra-ocular pressure, corneal-compensated (right)",Intraocular pressure
+5441,24012,Inverse distance to the nearest major road,Residential air pollution
+5442,24010,Inverse distance to the nearest road,Residential air pollution
+5535,23116,Leg fat mass (left),Body composition by impedance
+5536,23112,Leg fat mass (right),Body composition by impedance
+5537,23115,Leg fat percentage (left),Body composition by impedance
+5538,23111,Leg fat percentage (right),Body composition by impedance
+5539,23117,Leg fat-free mass (left),Body composition by impedance
+5540,23113,Leg fat-free mass (right),Body composition by impedance
+5541,23118,Leg predicted mass (left),Body composition by impedance
+5542,23114,Leg predicted mass (right),Body composition by impedance
+5564,30120,Lymphocyte count,Blood count
+5565,30180,Lymphocyte percentage,Blood count
+5566,22038,MET minutes per week for moderate activity,MET Scores
+5567,22039,MET minutes per week for vigorous activity,MET Scores
+5568,22037,MET minutes per week for walking,MET Scores
+5588,22672,Maximum carotid IMT (intima-medial thickness) at 120 degrees,Carotid ultrasound
+5589,22675,Maximum carotid IMT (intima-medial thickness) at 150 degrees,Carotid ultrasound
+5590,22678,Maximum carotid IMT (intima-medial thickness) at 210 degrees,Carotid ultrasound
+5591,22681,Maximum carotid IMT (intima-medial thickness) at 240 degrees,Carotid ultrasound
+6024,22671,Mean carotid IMT (intima-medial thickness) at 120 degrees,Carotid ultrasound
+6025,22674,Mean carotid IMT (intima-medial thickness) at 150 degrees,Carotid ultrasound
+6026,22677,Mean carotid IMT (intima-medial thickness) at 210 degrees,Carotid ultrasound
+6027,22680,Mean carotid IMT (intima-medial thickness) at 240 degrees,Carotid ultrasound
+6028,30050,Mean corpuscular haemoglobin,Blood count
+6029,30060,Mean corpuscular haemoglobin concentration,Blood count
+6030,30040,Mean corpuscular volume,Blood count
+6074,30100,Mean platelet (thrombocyte) volume,Blood count
+6075,30260,Mean reticulocyte volume,Blood count
+6079,30270,Mean sphered cell volume,Blood count
+6410,22670,Minimum carotid IMT (intima-medial thickness) at 120 degrees,Carotid ultrasound
+6411,22673,Minimum carotid IMT (intima-medial thickness) at 150 degrees,Carotid ultrasound
+6412,22676,Minimum carotid IMT (intima-medial thickness) at 210 degrees,Carotid ultrasound
+6413,22679,Minimum carotid IMT (intima-medial thickness) at 240 degrees,Carotid ultrasound
+6414,22005,Missingness,Genotyping process and sample QC
+6415,90019,Monday average acceleration,Acceleration averages
+6416,30130,Monocyte count,Blood count
+6417,30190,Monocyte percentage,Blood count
+6423,30140,Neutrophill count,Blood count
+6424,30200,Neutrophill percentage,Blood count
+6425,24016,Nitrogen dioxide air pollution; 2005,Residential air pollution
+6426,24017,Nitrogen dioxide air pollution; 2006,Residential air pollution
+6427,24018,Nitrogen dioxide air pollution; 2007,Residential air pollution
+6428,24003,Nitrogen dioxide air pollution; 2010,Residential air pollution
+6429,24004,Nitrogen oxides air pollution; 2010,Residential air pollution
+6430,90091,No-wear time bias adjusted acceleration maximum,Acceleration averages
+6431,90089,No-wear time bias adjusted acceleration median,Acceleration averages
+6432,90090,No-wear time bias adjusted acceleration minimum,Acceleration averages
+6433,90088,No-wear time bias adjusted acceleration standard deviation,Acceleration averages
+6434,90087,No-wear time bias adjusted average acceleration,Acceleration averages
+6435,90052,Non wear duration overall,Accelerometer wear time duration
+6436,30170,Nucleated red blood cell count,Blood count
+6437,30230,Nucleated red blood cell percentage,Blood count
+6445,90012,Overall acceleration average,Acceleration averages
+6450,20162,Pack years adult smoking as proportion of life span exposed to smoking,Smoking
+6451,20161,Pack years of smoking,Smoking
+6455,24019,Particulate matter air pollution (pm10); 2007,Residential air pollution
+6456,24005,Particulate matter air pollution (pm10); 2010,Residential air pollution
+6457,24007,Particulate matter air pollution (pm2.5) absorbance; 2010,Residential air pollution
+6458,24006,Particulate matter air pollution (pm2.5); 2010,Residential air pollution
+6459,24008,Particulate matter air pollution 2.5-10um; 2010,Residential air pollution
+6463,22631,Period spent working day shifts,Employment history
+6464,22641,Period spent working mix of day and night shifts,Employment history
+6465,22651,Period spent working night shifts,Employment history
+6502,30080,Platelet count,Blood count
+6503,30090,Platelet crit,Blood count
+6504,30110,Platelet distribution width,Blood count
+6517,21021,Pulse wave Arterial Stiffness index,Arterial stiffness
+6518,4207,Pulse wave velocity (manual entry),Arterial stiffness
+6538,30010,Red blood cell (erythrocyte) count,Blood count
+6539,30070,Red blood cell (erythrocyte) distribution width,Blood count
+6541,30250,Reticulocyte count,Blood count
+6542,30240,Reticulocyte percentage,Blood count
+6568,90188,Sample rate average,Raw accelerometer statistics
+6569,90191,Sample rate maximum,Raw accelerometer statistics
+6570,90190,Sample rate minimum,Raw accelerometer statistics
+6571,90189,Sample rate standard deviation,Raw accelerometer statistics
+6575,90024,Saturday average acceleration,Acceleration averages
+6576,51,Seated height,Body size measures
+6577,20015,Sitting height,Body size measures
+6581,5085,Spherical power (left),Autorefraction
+6582,5084,Spherical power (right),Autorefraction
+6588,90013,Standard deviation of acceleration,Acceleration averages
+6589,50,Standing height,Body size measures
+6592,24015,Sum of road length of major roads within 100m,Residential air pollution
+6593,22040,Summed MET minutes per week for all activity,MET Scores
+6594,90025,Sunday average acceleration,Acceleration averages
+6596,90192,Temperature average,Raw accelerometer statistics
+6597,90195,Temperature maximum,Raw accelerometer statistics
+6598,90194,Temperature minimum,Raw accelerometer statistics
+6599,90193,Temperature standard deviation,Raw accelerometer statistics
+6601,90022,Thursday average acceleration,Acceleration averages
+6649,189,Townsend deprivation index at recruitment,Baseline characteristics
+6688,23128,Trunk fat mass,Body composition by impedance
+6689,23127,Trunk fat percentage,Body composition by impedance
+6690,23129,Trunk fat-free mass,Body composition by impedance
+6691,23130,Trunk predicted mass,Body composition by impedance
+6694,90020,Tuesday average acceleration,Acceleration averages
+6702,5274,Vertex distance (left),Autorefraction
+6703,5215,Vertex distance (right),Autorefraction
+7363,48,Waist circumference,Body size measures
+7366,90060,Wear duration during 00:00 - 00:59,Accelerometer wear time duration
+7367,90061,Wear duration during 01:00 - 01:59,Accelerometer wear time duration
+7368,90062,Wear duration during 02:00 - 02:59,Accelerometer wear time duration
+7369,90063,Wear duration during 03:00 - 03:59,Accelerometer wear time duration
+7370,90064,Wear duration during 04:00 - 04:59,Accelerometer wear time duration
+7371,90065,Wear duration during 05:00 - 05:59,Accelerometer wear time duration
+7372,90066,Wear duration during 06:00 - 06:59,Accelerometer wear time duration
+7373,90067,Wear duration during 07:00 - 07:59,Accelerometer wear time duration
+7374,90068,Wear duration during 08:00 - 08:59,Accelerometer wear time duration
+7375,90069,Wear duration during 09:00 - 09:59,Accelerometer wear time duration
+7376,90070,Wear duration during 10:00 - 10:59,Accelerometer wear time duration
+7377,90071,Wear duration during 11:00 - 11:59,Accelerometer wear time duration
+7378,90072,Wear duration during 12:00 - 12:59,Accelerometer wear time duration
+7379,90073,Wear duration during 13:00 - 13:59,Accelerometer wear time duration
+7380,90074,Wear duration during 14:00 - 14:59,Accelerometer wear time duration
+7381,90075,Wear duration during 15:00 - 15:59,Accelerometer wear time duration
+7382,90076,Wear duration during 16:00 - 16:59,Accelerometer wear time duration
+7383,90077,Wear duration during 17:00 - 17:59,Accelerometer wear time duration
+7384,90078,Wear duration during 18:00 - 18:59,Accelerometer wear time duration
+7385,90079,Wear duration during 19:00 - 19:59,Accelerometer wear time duration
+7386,90080,Wear duration during 20:00 - 20:59,Accelerometer wear time duration
+7387,90081,Wear duration during 21:00 - 21:59,Accelerometer wear time duration
+7388,90082,Wear duration during 22:00 - 22:59,Accelerometer wear time duration
+7389,90083,Wear duration during 23:00 - 23:59,Accelerometer wear time duration
+7390,90057,Wear duration during Friday,Accelerometer wear time duration
+7391,90053,Wear duration during Monday,Accelerometer wear time duration
+7392,90058,Wear duration during Saturday,Accelerometer wear time duration
+7393,90059,Wear duration during Sunday,Accelerometer wear time duration
+7394,90056,Wear duration during Thursday,Accelerometer wear time duration
+7395,90054,Wear duration during Tuesday,Accelerometer wear time duration
+7396,90055,Wear duration during Wednesday,Accelerometer wear time duration
+7397,90051,Wear duration overall,Accelerometer wear time duration
+7398,90021,Wednesday average acceleration,Acceleration averages
+7399,21002,Weight,Body size measures
+7400,23098,Weight,Body composition by impedance
+7401,3160,"Weight, manual entry",Body size measures
+7646,30000,White blood cell (leukocyte) count,Blood count
+7647,23100,Whole body fat mass,Body composition by impedance
+7648,23101,Whole body fat-free mass,Body composition by impedance
+7649,23102,Whole body water mass,Body composition by impedance
+7650,22605,Work hours per week - exact value,Employment history
+7653,5208,"logMAR, final (left)",Visual acuity
+7654,5201,"logMAR, final (right)",Visual acuity
