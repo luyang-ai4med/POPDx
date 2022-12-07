@@ -3,7 +3,7 @@ import torch.nn as nn
 
 class POPDxModel(nn.Module):
     def __init__(self, feature_num, label_num, hidden_size, y_emb):
-        super(RareSeekerModel, self).__init__()
+        super(POPDxModel, self).__init__()
         self.feature_num = feature_num
         self.label_num = label_num
         self.hidden_size = hidden_size
@@ -26,7 +26,7 @@ class POPDxModel(nn.Module):
                 
 class LGclassifier(nn.Module):
     def __init__(self, feature_size, nlabel):
-        super(_classifier, self).__init__()
+        super( LGclassifier, self).__init__()
         self.main = nn.Sequential(           
             nn.Linear(feature_size, nlabel)
         )
