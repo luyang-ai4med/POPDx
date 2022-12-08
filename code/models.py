@@ -26,7 +26,7 @@ class POPDxModel(nn.Module):
                 
 class LGclassifier(nn.Module):
     def __init__(self, feature_size, nlabel):
-        super( LGclassifier, self).__init__()
+        super(LGclassifier, self).__init__()
         self.main = nn.Sequential(           
             nn.Linear(feature_size, nlabel)
         )
