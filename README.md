@@ -43,7 +43,7 @@ optional arguments:
                         Default learning rate is 0
 ```
 ## POPDx testing
-POPDx can be test through the command lines as follows: 
+POPDx can be tested through the command lines as follows: 
 ```
 python code/POPDx_test.py -h 
 python code/POPDx_test.py -m "./save/POPDx_train/best_classifier.pth.tar" -o "./save/POPDx_train/test/"
