@@ -21,7 +21,10 @@ from sklearn.metrics import roc_auc_score, auc, roc_curve, precision_recall_curv
 
 
 def args_argument():
-    parser = argparse.ArgumentParser(description='test')
+    parser = argparse.ArgumentParser(description='''
+    The script to test POPDx. 
+    Please specify the path to the test datasets in the python script.
+    ''')
     parser.add_argument('-m', '--model_path', required=True, help='The path to POPDx model e.g. "./save/POPDx_train/best_classifier.pth.tar"')
     parser.add_argument('-o', '--output_path', required=True, help='The output directory  e.g. "./save/POPDx_train/test/"')
     parser.add_argument('-s', '--hidden_size', type=int, default=150, help='Default hidden size is 150. Consistent with training.')
