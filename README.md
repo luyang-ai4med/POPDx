@@ -43,3 +43,29 @@ optional arguments:
                         Default learning rate is 0
 ```
 ## POPDx testing
+POPDx can be test through the command lines as follows: 
+```
+python code/POPDx_test.py -h 
+python code/POPDx_test.py -m "./save/POPDx_train/best_classifier.pth.tar" -o "./save/POPDx_train/test/"
+```
+Additional parameters can be defined by the user. 
+```
+usage: POPDx_test.py [-h] -m MODEL_PATH -o OUTPUT_PATH [-s HIDDEN_SIZE]
+                     [-b BATCH_SIZE] [--use_gpu USE_GPU]
+
+The script to test POPDx. 
+Please specify the path to the test datasets in the python script.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -m MODEL_PATH, --model_path MODEL_PATH
+                        The path to POPDx model e.g.
+                        "./save/POPDx_train/best_classifier.pth.tar"
+  -o OUTPUT_PATH, --output_path OUTPUT_PATH
+                        The output directory e.g. "./save/POPDx_train/test/"
+  -s HIDDEN_SIZE, --hidden_size HIDDEN_SIZE
+                        Default hidden size is 150. Consistent with training.
+  -b BATCH_SIZE, --batch_size BATCH_SIZE
+                        Default batch size is 512.
+  --use_gpu USE_GPU     Default setup is to not use GPU for test.
+```
