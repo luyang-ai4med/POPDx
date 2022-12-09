@@ -26,7 +26,7 @@ def args_argument():
     parser.add_argument('-s', '--hidden_size', type=int, default=150, help='Default hidden size is 150.')
     parser.add_argument('--use_gpu', default=True, help='Default setup is to use GPU.')
     parser.add_argument('-lr', '--learning_rate', type=float, default=0.0001, help='Default learning rate is 0.0001')
-    parser.add_argument('-wd', '--weight_decay', type=float, default=0.000, help='Default learning rate is 0')
+    parser.add_argument('-wd', '--weight_decay', type=float, default=0.000, help='Default weight decay is 0')
     args = parser.parse_args()
     return args    
 
