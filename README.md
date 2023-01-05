@@ -40,7 +40,7 @@ optional arguments:
   -lr LEARNING_RATE, --learning_rate LEARNING_RATE
                         Default learning rate is 0.0001
   -wd WEIGHT_DECAY, --weight_decay WEIGHT_DECAY
-                        Default learning rate is 0
+                        Default weight decay is 0
 ```
 ## POPDx testing
 POPDx can be tested through the command lines as follows: 
