@@ -19,6 +19,7 @@ conda activate popdx
 ```
 ## Label embeddings 
 Please refer to sample script for generating the ICD-10/Phecode embeddings. 
+
 https://github.com/luyang-ai4med/POPDx/blob/2035055b9b7d530634cb34d99b4f500c54c5fb06/code/create_label_embeddings.ipynb
 
 ## POPDx training
