@@ -17,6 +17,10 @@ For your experiments, we suggest using a single GPU (e.g. NVIDIA Tesla V100 SXM2
 conda env create -f popdx.yml
 conda activate popdx
 ```
+## Label embeddings 
+Please refer to sample script for generating the ICD-10/Phecode embeddings. 
+https://github.com/luyang-ai4med/POPDx/blob/2035055b9b7d530634cb34d99b4f500c54c5fb06/code/create_label_embeddings.ipynb#L1-L6
+
 ## POPDx training
 POPDx can be explored and run through the command lines as follows: 
 ```
