@@ -16,7 +16,7 @@ Please clone our github repository as follows:
 git clone https://github.com/luyang-ai4med/POPDx.git
 ```
 ## Dependencies
-POPDx is developed in Python 3. We provide an conda environment containing the necessary dependencies. 
+POPDx is developed in Python 3. We provide the conda environment containing the necessary dependencies. 
 For your experiments, we suggest using a single GPU (e.g. NVIDIA Tesla V100 SXM2 16 GB). 
 ```
 conda env create -f popdx.yml
