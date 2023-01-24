@@ -2,7 +2,7 @@
 POPDx (Population-based Objective Phenotyping by Deep Extrapolation) is a bilinear machine learning framework for simultaneous multi-phenotype recognition. For additional information, please refer to our manuscript, available at https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac226/6873915. 
 
 To cite: \
-**Lu Yang, Sheng Wang, Russ B Altman, POPDx: an automated framework for patient phenotyping across 392 246 individuals in the UK Biobank study, Journal of the American Medical Informatics Association, Volume 30, Issue 2, February 2023, Pages 245–255, https://doi.org/10.1093/jamia/ocac226**
+**Yang, Lu, Sheng Wang, and Russ B. Altman. "POPDx: an automated framework for patient phenotyping across 392 246 individuals in the UK Biobank study." Journal of the American Medical Informatics Association 30.2 (2023): 245-255.**
 
 
 <img src="blob/overview.jpg" width="600" >
