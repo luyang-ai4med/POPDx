@@ -2,7 +2,7 @@
 POPDx (Population-based Objective Phenotyping by Deep Extrapolation) is a bilinear machine learning framework for simultaneous multi-phenotype recognition. For additional information, please refer to our manuscript, available at https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac226/6873915. 
 
 To cite: \
-**Lu Yang, Sheng Wang, Russ B Altman, POPDx: an automated framework for patient phenotyping across 392 246 individuals in the UK Biobank study, Journal of the American Medical Informatics Association, 2022;, ocac226, https://doi.org/10.1093/jamia/ocac226**
+**Yang, Lu, Sheng Wang, and Russ B. Altman. "POPDx: an automated framework for patient phenotyping across 392 246 individuals in the UK Biobank study." Journal of the American Medical Informatics Association 30.2 (2023): 245-255.**
 
 
 <img src="blob/overview.jpg" width="600" >
@@ -16,7 +16,7 @@ Please clone our github repository as follows:
 git clone https://github.com/luyang-ai4med/POPDx.git
 ```
 ## Dependencies
-POPDx is developed in Python 3. We provide an conda environment containing the necessary dependencies. 
+POPDx is developed in Python 3. We provide the conda environment containing the necessary dependencies. 
 For your experiments, we suggest using a single GPU (e.g. NVIDIA Tesla V100 SXM2 16 GB). 
 ```
 conda env create -f popdx.yml
