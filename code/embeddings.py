@@ -31,7 +31,7 @@ def ontology_emb(dim=500, ICD_network_file = '../data/19.csv', save_dir = './emb
             err = 'No pretrained ONTOLOGY embeddings found.'
             print(err)
     
-    df_network=pd.read_csv(ICD_network_file, delimiter='\t')
+    df_network=pd.read_csv(ICD_network_file, delimiter=',')
 
     s2p = {}
     lset = set()
